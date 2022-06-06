@@ -14,7 +14,7 @@ Potential buyer who wants to buy a car in syarah.com is pretty easy. User only h
 
 #### Problem Statement
 
-syarah.com's challenge is how to set the suitable price for a car and make profit out of it financially with consindering the condition of the car, the price also can compete with other competitor and become costumer priority for buying a car especeially used car in this case.
+syarah.com's challenge is how to set the suitable price for a car and make profit out of it financially with consindering the condition of the car, and how to set the price that also can compete with other competitors and become costumer priority for buying a car especeially used car in this case.
 
 the consideration syarah.com make to set the car's price is the car's condition, car's production year, the machine, and many more to make the price is competitive and sutiable with the quality of the car.
 
