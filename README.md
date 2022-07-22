@@ -79,6 +79,7 @@ In addtion, we can also use R-squared value. The R-squared value is used to dete
 ==========================================================================
 <img width="701" alt="image" src="https://user-images.githubusercontent.com/99155979/169746633-dc1e5527-7c52-4540-8880-04fbfcf2b5a5.png">
 ==========================================================================
+
 ```python
 Using 5 Models:
 - Linear Regression
